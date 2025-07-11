@@ -1,0 +1,9 @@
+.link3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#img1{
+    margin-left: 180px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,21 @@
+container to use margin left...
+ create small space to use containerfluid
+ -m/mt/mb/ms/me-1/2/3/4/5/ :margin
+ -p?pt/pb/ps/pe-1/2/3/4/5/:padding
+ use border border-5:border
+ -colors
+ -danger=red
+ -primary=blue
+ -success=green
+ -black=dark
+ -light=white
+ warning=yellow
+ info=skyblue
+ secondary=aash
+ edge become curve:rounded
+ -bg
+ class="img-fluid" to use proper image
+ class="img-thumbnail to use curve image
+ width and height multiply of 25
+ fontsize:fs
+ fontweight=fw-bold
